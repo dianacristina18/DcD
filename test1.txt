@@ -1,0 +1,93 @@
+#include PI
+
+int functie(int j, float i)
+{
+   Printf("intram in functie");
+   int iz::6;
+   iz++;
+   
+   Printf("iz=",iz);
+   return iz;
+}
+void functie1(int j, float i)
+{
+   Printf("intram in functie");
+   int iiz::1;
+   
+}
+
+
+int e::12;
+int a::1;
+int zz::pow[2]^[4];
+int g::sqrt[81];
+int ll::log[10];
+float t::1.2;
+float #za{3};
+const int @w::1;
+const float @q::2.9;
+const char @R::'a';
+const bool @A::0#;
+int #sa{5}::{3,7,9,3,1};
+int b::2;
+int lo;
+int c::3,d::3;
+float y::PI;
+int nn::5.5>4;
+char x::'b';
+bool p::1#;
+int m::(d==3)||(b>3)||(b==3)&&(1==2);
+begin
+a::9;
+x::'c';
+nn::c==d;
+m::(d==3)&&(c==d)&&(1==2);
+a++;
+t::12;
+a--;
+t--;
+t++;
+b::#sa{1};
+a::functie(4,1.2);
+
+
+Printf("a=",a);
+Printf("calc exp1=",a+3+2*2);
+Printf("calc exp=",a+2);
+
+if(c+2<b+5)
+{
+	Printf("intram in if");
+	Printf("by default lo=",lo);
+	Printf("ll=",ll);
+	Printf("lala",a+3);
+	Printf("g=",g);
+	Printf("z=",zz);
+	Printf("text");
+	Printf("a=",a);
+	Printf("b=",b);
+	Printf("c=",c);
+	Printf("x=",x);
+	Printf("p=",p);
+	Printf("w=",@w);
+	Printf("q=",@q);
+	Printf("R=",@R);
+	Printf("A=",@A);
+	Printf("nn=",nn);
+	Printf("m=",m);
+	Printf("t=",t);
+	Printf("PI=",y);
+}
+else
+{
+	Printf("intram in else");	
+}
+Printf("intram in while");
+while (b!::0)
+{
+Printf("b=",b);
+b--;
+}
+
+
+end
